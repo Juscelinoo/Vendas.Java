@@ -1,0 +1,14 @@
+[
+    {
+        "cliente": "joao",
+        "valor": 150.0
+    },
+    {
+        "cliente": "maria",
+        "valor": 200.0
+    },
+    {
+        "cliente": "pedro",
+        "valor": 20.0
+    }
+]
